@@ -1,2 +1,2 @@
 # VisualProgramming
-Visual Programming class codes.
+In this class we using Qt with C++ 
